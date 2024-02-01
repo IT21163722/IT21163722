@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isuru Umanga</h1>
----
+
 <h3 align="center">A passionate fullstac developer from Sri Lanka</h3>
 
 - 🔭 I’m currently working on **Uni Project**
